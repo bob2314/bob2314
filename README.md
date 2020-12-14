@@ -1,5 +1,7 @@
 ### It's Bob 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob2314&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Bob's github stats](https://github-readme-stats.vercel.app/api?username=bob2314)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
